@@ -1,0 +1,9 @@
+whoami
+ls
+date
+pwd
+help
+hostname
+who
+tty
+history
